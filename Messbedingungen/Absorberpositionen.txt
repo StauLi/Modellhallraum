@@ -1,0 +1,6 @@
+|Eckpunkt	|Bezeichnung	|Absorbertyp		|Bezeichnung	|Absorbertyp		|
+|		|			|„klein“	|„groß“	|			|„klein“	|„groß“	|
+|1		|X1 [cm]		|41,9		|0		|Y1 [cm]		|14		|0		|
+|2		|X2 [cm]		|74,6		|0		|Y2 [cm]		|28,1		|51		|
+|3		|X3 [cm]		|62,7		|64		|Y3 [cm]		|56,6		|51		|
+|4		|X4 [cm]		|29,9		|64		|Y4 [cm]		|40,9		|0		|

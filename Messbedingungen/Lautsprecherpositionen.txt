@@ -1,0 +1,5 @@
+|Positions-Nr.	|Maße						|
+|Bezeichnung	|x [cm]	|y [cm]	|z [cm]	|
+|1			|30		|52		|9		|
+|2			|82,5		|10		|17		|
+

@@ -1,4 +1,4 @@
 |Beschreibung	|Bezeichnung	|Wert [m]	|
-|Länge		|l			|0,941	|
-|Breite		|b 			|0,675	|
-|Höhe			|h			|0,5		|
+|Länge			|l				|0,941		|
+|Breite		|b 				|0,675		|
+|Höhe			|h				|0,5		|

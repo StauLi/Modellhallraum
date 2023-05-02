@@ -1,0 +1,4 @@
+|Absorbertyp	|Maße	|		|		|
+|Bezeichnung	|x [cm]	|y [cm]	|z [cm]	|
+|„klein“		|30		|36		|1		|
+|„groß“		|51		|64		|1		|

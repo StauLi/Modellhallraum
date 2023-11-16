@@ -18,4 +18,4 @@ Bei Fragen:
 
 Linus Staubach
 
-Mail: lstaubac@hs-mittweida.de 
+Mail: linus.staubach@campus.tu-berlin.de 
